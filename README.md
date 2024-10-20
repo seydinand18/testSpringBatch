@@ -25,7 +25,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/xxx/xxx.git
+   git clone https://github.com/seydinand18/testSpringBatch.git
    cd votre-projet
    ```
 
@@ -60,4 +60,4 @@ curl -X POST http://localhost:8080/api/v1/student/import-student
 
 ## Autheur
 
-- [Mouhamed Ndiaye]() - Développeur Java
+- [Mouhamed Ndiaye](https://x.com/dieuwrigne_tech) - Développeur Java
